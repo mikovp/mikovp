@@ -5,8 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikovp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikovp)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **mikovp/mikovp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
