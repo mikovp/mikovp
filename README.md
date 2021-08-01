@@ -1,12 +1,13 @@
 ### Hi there! i'm Mike
 
+### **Languages and Technologies**
+![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![PHP](https://img.shields.io/badge/-PHP-blue) ![VUEJS](https://img.shields.io/badge/-VUEJS-lightgrey) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-lightgrey) ![ES6](https://img.shields.io/badge/-ES6-green) ![PROMISES](https://img.shields.io/badge/-PROMISES-yellowgreen)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikovp&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikovp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### **Languages and Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![VUEJS](https://img.shields.io/badge/-VUEJS-lightgrey) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-lightgrey) ![ES6](https://img.shields.io/badge/-ES6-green) ![PROMISES](https://img.shields.io/badge/-PROMISES-yellowgreen)
+
 
 <!--
 **mikovp/mikovp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
