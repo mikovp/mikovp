@@ -1,7 +1,7 @@
 ### Hi there! i'm Mike
 
 ### **My Languages and Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![PHP](https://img.shields.io/badge/-PHP-blue) ![VUEJS](https://img.shields.io/badge/-VUEJS-teal) ![MYSQL](https://img.shields.io/badge/-MYSQL-blue) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-Aqua) ![ES6](https://img.shields.io/badge/-ES6-green) ![PROMISES](https://img.shields.io/badge/-PROMISES-yellowgreen) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-red)
+![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![PHP](https://img.shields.io/badge/-PHP-blue) ![VUEJS](https://img.shields.io/badge/-VUEJS-green) ![MYSQL](https://img.shields.io/badge/-MYSQL-blue) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-teal) ![ES6](https://img.shields.io/badge/-ES6-green) ![PROMISES](https://img.shields.io/badge/-PROMISES-yellowgreen) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-red)
 
 ### **My Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikovp&show_icons=true&theme=dark)
