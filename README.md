@@ -6,7 +6,7 @@
 ### **My Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikovp&show_icons=true&theme=dark)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikovp)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikovp&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
