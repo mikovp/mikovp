@@ -1,7 +1,7 @@
 ### Hi there! i'm Mike
 
 ### **My Languages and Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![ES6](https://img.shields.io/badge/-ES6-yellow)  ![PHP](https://img.shields.io/badge/-PHP-blue)  ![MYSQL](https://img.shields.io/badge/-MYSQL-orange) ![ORACLE](https://img.shields.io/badge/-ORACLE-orange) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-teal) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-red) ![VUEJS](https://img.shields.io/badge/-VUEJS-green) ![JQUERY](https://img.shields.io/badge/-JQUERY-gray) ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-blue)
+![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![ES6](https://img.shields.io/badge/-ES6-yellow)  ![PHP](https://img.shields.io/badge/-PHP-blue)  ![MYSQL](https://img.shields.io/badge/-MYSQL-orange) ![ORACLE](https://img.shields.io/badge/-ORACLE-orange) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-teal) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-red) ![VUEJS](https://img.shields.io/badge/-VUEJS-green) ![REACTJS](https://img.shields.io/badge/-REACTJS-blue) ![JQUERY](https://img.shields.io/badge/-JQUERY-gray) ![NUXT](https://img.shields.io/badge/-NUXT-green) ![GATSBY](https://img.shields.io/badge/-GATSBY-violet) ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-blue)
 
 ### **My Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikovp&show_icons=true&theme=nord)
