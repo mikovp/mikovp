@@ -9,7 +9,7 @@
 ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/c7233392-c7a8-4283-923d-9f85a86883a3.svg)](https://wakatime.com/@c7233392-c7a8-4283-923d-9f85a86883a3)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=mikovp&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikovp&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
