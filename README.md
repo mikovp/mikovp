@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=mikovp)
+![](https://komarev.com/ghpvc/?username=mikovp&style=for-the-badge)
