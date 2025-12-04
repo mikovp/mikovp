@@ -1,32 +1,31 @@
-### Hi there! i'm Mike
+### Hi, I'm Mike
 
-### **My Languages and Technologies**
-![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JS](https://img.shields.io/badge/-JAVASCRIPT-yellow) ![ES6](https://img.shields.io/badge/-ES6-yellow)  ![PHP](https://img.shields.io/badge/-PHP-blue)  ![MYSQL](https://img.shields.io/badge/-MYSQL-orange) ![ORACLE](https://img.shields.io/badge/-ORACLE-orange) ![WEBPACK](https://img.shields.io/badge/-WEBPACK-teal) ![GULP](https://img.shields.io/badge/-GULP-red) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-red) ![VUEJS](https://img.shields.io/badge/-VUEJS-green) ![REACTJS](https://img.shields.io/badge/-REACTJS-blue) ![JQUERY](https://img.shields.io/badge/-JQUERY-gray) ![NUXT](https://img.shields.io/badge/-NUXT-green) ![GATSBY](https://img.shields.io/badge/-GATSBY-violet) ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-blue) ![GO](https://img.shields.io/badge/-GO-blue)
+Web developer crafting modern web applications and APIs since 2018.  
+I work across the stack with Laravel, Symfony, Vue.js and React, focusing on clean architecture, performance and a great developer experience.  
+Lately I'm especially interested in bringing AI and LLMs into real‑world products.
 
-### **My Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikovp&show_icons=true&theme=nord)
+### **What I work on**
+- **AI & LLM apps**: chatbots, assistants, internal tools
+- **Full‑stack web**: from clean APIs to fast frontends
+- **Automation & DX**: workflows, integrations, dev tooling
 
-### Wakatime
-[![wakatime](https://wakatime.com/badge/user/c7233392-c7a8-4283-923d-9f85a86883a3.svg)](https://wakatime.com/@c7233392-c7a8-4283-923d-9f85a86883a3)
+### **AI workflow**
+- Use LLMs to assist with architecture, refactors and tests
+- Prototype fast, then harden solutions with reviews and benchmarks
+- Balance AI assistance with clean, maintainable code
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikovp&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### **Tech I enjoy**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=fff)
+
+### **Time in editor**
+[![Wakatime](https://wakatime.com/badge/user/c7233392-c7a8-4283-923d-9f85a86883a3.svg)](https://wakatime.com/@mikovp)
+
+![](https://komarev.com/ghpvc/?username=mikovp&style=flat-square)
 
 
-
-
-<!--
-**mikovp/mikovp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://komarev.com/ghpvc/?username=mikovp&style=for-the-badge)
